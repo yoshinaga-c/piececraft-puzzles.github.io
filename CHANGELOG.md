@@ -1,5 +1,13 @@
 # Changelog
 
+## V2 — 2026-10-13
+- Replaced the V1 product thumbnails with 12 individually assigned product image files.
+- Re-matched each product name and category to its corresponding image.
+- Removed screenshot UI elements (hearts, labels, prices, and card text) from the image assets.
+- Changed product image frames to a 4:3 presentation and contain-fit to preserve full photos without forced square cropping.
+- Rechecked local image assignments, references, JSON, and ZIP integrity.
+
+
 ## V1 — 2026-10-13
 - Created the PIECECRAFT puzzle storefront concept.
 - Added 12-item JSON catalog with illustrative prices.

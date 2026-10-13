@@ -96,6 +96,10 @@ The site URL generally follows `https://YOUR-USERNAME.github.io/piececraft-puzzl
 
 **These are placeholders, not live support channels.** The `.example` domain is reserved for documentation, and the phone number is fictional. Replace both with official contact details before launching commercially.
 
+## V2 image improvements
+
+V2 replaces the V1 catalog imagery with separate, locally stored image assets matched to the displayed products. Product tiles use a 4:3 frame and contain-fit rendering so the full image remains visible without forcing a square crop. Images are stored without card controls, prices, labels, or wishlist icons.
+
 ## Quality checklist
 
 - [x] Logo included locally

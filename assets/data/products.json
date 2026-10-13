@@ -1,0 +1,122 @@
+[
+  {
+    "id": "pc01",
+    "name": "Mountain Lake 1000-Piece Puzzle",
+    "category": "Jigsaw Puzzles",
+    "price": 24.99,
+    "image": "mountain-lake-puzzle.jpg",
+    "tag": "BEST SELLER",
+    "pieces": "1000 pieces",
+    "description": "A scenic mountain-lake image designed for a satisfying, immersive puzzling session."
+  },
+  {
+    "id": "pc02",
+    "name": "European Castle 3D Puzzle",
+    "category": "3D Puzzles",
+    "price": 49.99,
+    "image": "castle-3d-puzzle.jpg",
+    "tag": "BUILD & DISPLAY",
+    "pieces": "3D model",
+    "description": "A detailed architectural build for puzzle fans who enjoy constructing and displaying a finished model."
+  },
+  {
+    "id": "pc03",
+    "name": "Starry Night Art Puzzle",
+    "category": "Jigsaw Puzzles",
+    "price": 22.99,
+    "image": "starry-night-puzzle.jpg",
+    "tag": "ART COLLECTION",
+    "pieces": "1000 pieces",
+    "description": "A colorful art-inspired puzzle for a calm evening of focus and creativity."
+  },
+  {
+    "id": "pc04",
+    "name": "Wooden Brain Teaser Cube",
+    "category": "Brain Teasers",
+    "price": 16.99,
+    "image": "wooden-brain-teaser.jpg",
+    "tag": "THINK DIFFERENTLY",
+    "pieces": "Logic challenge",
+    "description": "A tactile wooden puzzle challenge for curious minds and desk-side breaks."
+  },
+  {
+    "id": "pc05",
+    "name": "Puzzle Sorting Tray Set",
+    "category": "Accessories",
+    "price": 27.99,
+    "image": "sorting-trays.jpg",
+    "tag": "PUZZLE ORGANIZATION",
+    "pieces": "Multi-tray set",
+    "description": "Sorting trays help separate colors, shapes, and sections while working on a larger puzzle."
+  },
+  {
+    "id": "pc06",
+    "name": "World Map Jigsaw Puzzle",
+    "category": "Jigsaw Puzzles",
+    "price": 26.99,
+    "image": "world-map-puzzle.jpg",
+    "tag": "EXPLORE THE WORLD",
+    "pieces": "1000 pieces",
+    "description": "A map-inspired puzzle for geography lovers and travel-minded puzzlers."
+  },
+  {
+    "id": "pc07",
+    "name": "Eiffel Tower 3D Model",
+    "category": "3D Puzzles",
+    "price": 34.99,
+    "image": "eiffel-tower-puzzle.jpg",
+    "tag": "ARCHITECTURE",
+    "pieces": "3D model",
+    "description": "A landmark-inspired construction project for a shelf, desk, or gift."
+  },
+  {
+    "id": "pc08",
+    "name": "Puzzle Mat & Storage Roll",
+    "category": "Accessories",
+    "price": 29.99,
+    "image": "puzzle-mat.jpg",
+    "tag": "SAVE YOUR PROGRESS",
+    "pieces": "Roll-up mat",
+    "description": "A puzzle mat concept for keeping a work in progress together between sessions."
+  },
+  {
+    "id": "pc09",
+    "name": "Colorful Kids Jigsaw",
+    "category": "Kids & Educational",
+    "price": 14.99,
+    "image": "kids-puzzle.jpg",
+    "tag": "LITTLE DISCOVERERS",
+    "pieces": "Kids puzzle",
+    "description": "A bright, approachable puzzle concept for shared family time and early problem-solving."
+  },
+  {
+    "id": "pc10",
+    "name": "Puzzle Gift Box",
+    "category": "Gifts & Bundles",
+    "price": 39.99,
+    "image": "gift-puzzle-set.jpg",
+    "tag": "READY TO GIFT",
+    "pieces": "Gift bundle",
+    "description": "A gift-ready puzzle set concept for birthdays, holidays, and thoughtful surprises."
+  },
+  {
+    "id": "pc11",
+    "name": "Wooden Puzzle Keepsake Box",
+    "category": "Brain Teasers",
+    "price": 24.99,
+    "image": "wooden-puzzle-box.jpg",
+    "tag": "HIDDEN CHALLENGE",
+    "pieces": "Mechanical puzzle",
+    "description": "A wooden puzzle-box concept that turns opening a small box into a problem-solving experience."
+  },
+  {
+    "id": "pc12",
+    "name": "Jigsaw Care & Accessory Kit",
+    "category": "Accessories",
+    "price": 12.99,
+    "image": "jigsaw-accessory-kit.jpg",
+    "tag": "CARE FOR YOUR PUZZLE",
+    "pieces": "Accessory kit",
+    "description": "A small accessory-kit concept for keeping puzzle sessions organized and tidy."
+  }
+]

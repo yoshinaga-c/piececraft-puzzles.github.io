@@ -1,5 +1,14 @@
 # Changelog
 
+## V3 — 2026-10-13
+- Replaced screenshot-derived image crops with individually generated product photography.
+- Exported all 12 catalog product images as square 900 × 900 JPEG files.
+- Removed collage dividers and any page/card UI from product assets.
+- Replaced the hero with a separate high-resolution lifestyle photo.
+- Matched each product name and category to the correct image.
+- Updated image CSS to fill product tiles edge-to-edge without inset padding or borders.
+
+
 ## V2 — 2026-10-13
 - Replaced the V1 product thumbnails with 12 individually assigned product image files.
 - Re-matched each product name and category to its corresponding image.

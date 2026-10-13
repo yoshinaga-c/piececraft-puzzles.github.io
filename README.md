@@ -63,7 +63,7 @@ piececraft-puzzles/
         ├── hero/
         │   └── puzzle-table.jpg
         └── products/
-            └── 12 individual product image files
+            └── 12 individually generated square product photographs (900 × 900 px)
 ```
 
 ## Run locally
@@ -104,9 +104,9 @@ V2 replaces the V1 catalog imagery with separate, locally stored image assets ma
 
 - [x] Logo included locally
 - [x] Hero image included locally
-- [x] 12 individual product image files included
+- [x] 12 individually generated square product photographs (900 × 900 px) included
 - [x] Product catalog validates as JSON
-- [x] Every product points to a local image file
+- [x] Every product points to its own local, square image file
 - [x] Search, filter, and sort controls implemented
 - [x] Product details dialog implemented
 - [x] Cart quantity and subtotal logic implemented
@@ -117,6 +117,10 @@ V2 replaces the V1 catalog imagery with separate, locally stored image assets ma
 - [ ] Replace placeholder support contacts
 - [ ] Confirm actual SKUs, prices, specifications, and availability
 - [ ] Connect payment and order processing for a commercial launch
+
+## Image quality — V3
+
+V3 replaces the earlier image crops with individually exported 900 × 900 product photographs. Product files are square, the white collage dividers are excluded from the crops, and the storefront renders each image edge-to-edge in its own image tile. The hero uses a separate wide lifestyle photograph. Product visuals are generated concept imagery and do not represent verified retail SKUs.
 
 ## Project status
 

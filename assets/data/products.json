@@ -7,17 +7,17 @@
     "image": "mountain-lake-puzzle.jpg",
     "tag": "BEST SELLER",
     "pieces": "1000 pieces",
-    "description": "A vivid alpine landscape puzzle for relaxed evenings, mindful breaks, and shared puzzle time."
+    "description": "A richly illustrated alpine lake puzzle for a relaxed evening of focus and discovery."
   },
   {
     "id": "pc02",
-    "name": "Eiffel Tower 3D Puzzle",
+    "name": "Eiffel Tower 3D Wooden Model",
     "category": "3D Puzzles",
     "price": 34.99,
     "image": "eiffel-tower-3d-puzzle.jpg",
     "tag": "BUILD & DISPLAY",
-    "pieces": "3D model",
-    "description": "A landmark-inspired construction challenge designed to become a striking shelf or desk display."
+    "pieces": "Wooden 3D model",
+    "description": "A detailed wooden architectural model designed to become a striking shelf or desk display."
   },
   {
     "id": "pc03",
@@ -27,17 +27,17 @@
     "image": "wooden-brain-teaser.jpg",
     "tag": "THINK DIFFERENTLY",
     "pieces": "Logic challenge",
-    "description": "A tactile wooden block puzzle for curious minds and satisfying problem-solving breaks."
+    "description": "A tactile interlocking wooden block challenge for curious minds and satisfying problem-solving breaks."
   },
   {
     "id": "pc04",
-    "name": "Colorful Cats 500-Piece Puzzle",
+    "name": "Colorful Animal Garden Puzzle",
     "category": "Kids & Educational",
     "price": 21.99,
     "image": "colorful-cats-puzzle.jpg",
     "tag": "PLAYFUL PICK",
     "pieces": "500 pieces",
-    "description": "A cheerful illustrated jigsaw concept for family puzzle nights and animal-loving puzzlers."
+    "description": "A cheerful animal-and-garden jigsaw concept for family puzzle time and young problem-solvers."
   },
   {
     "id": "pc05",
@@ -47,47 +47,47 @@
     "image": "starry-night-puzzle.jpg",
     "tag": "ART COLLECTION",
     "pieces": "1000 pieces",
-    "description": "A richly colored night-sky artwork puzzle for a focused, creative evening."
+    "description": "A deep-blue, art-inspired puzzle scene for a calm and immersive puzzling session."
   },
   {
     "id": "pc06",
-    "name": "Mechanical Globe 3D Model",
+    "name": "Mechanical Wooden Globe",
     "category": "3D Puzzles",
     "price": 49.99,
     "image": "mechanical-globe-3d.jpg",
     "tag": "DESK DISPLAY",
     "pieces": "3D wooden model",
-    "description": "A globe-inspired build for people who enjoy intricate models and decorative finished projects."
+    "description": "A decorative wooden globe model with intricate construction details for puzzle and design enthusiasts."
   },
   {
     "id": "pc07",
-    "name": "Puzzle Sorting Tray Set",
+    "name": "Color-Coded Puzzle Sorting Trays",
     "category": "Accessories",
     "price": 27.99,
     "image": "puzzle-sorting-trays.jpg",
     "tag": "PUZZLE ORGANIZATION",
-    "pieces": "Set of trays",
-    "description": "Colorful sorting trays help keep pieces organized by color, shape, or section while you work."
+    "pieces": "Set of 6 trays",
+    "description": "Stackable sorting trays keep colors and sections organized while you work through a larger puzzle."
   },
   {
     "id": "pc08",
-    "name": "Ocean Life 1000-Piece Puzzle",
+    "name": "Ocean Reef 1000-Piece Puzzle",
     "category": "Jigsaw Puzzles",
     "price": 24.99,
     "image": "ocean-life-puzzle.jpg",
     "tag": "UNDER THE SEA",
     "pieces": "1000 pieces",
-    "description": "A vibrant underwater scene for ocean lovers and puzzlers who enjoy detailed artwork."
+    "description": "A vibrant underwater reef puzzle filled with tropical fish, coral, and sea turtles."
   },
   {
     "id": "pc09",
-    "name": "Colosseum 3D Puzzle",
+    "name": "Colosseum Wooden 3D Puzzle",
     "category": "3D Puzzles",
     "price": 39.99,
     "image": "colosseum-3d-puzzle.jpg",
     "tag": "ARCHITECTURE",
-    "pieces": "3D model",
-    "description": "A classic landmark-inspired model build for architecture fans and display shelves."
+    "pieces": "Wooden 3D model",
+    "description": "An intricate wooden landmark model for hands-on building and display."
   },
   {
     "id": "pc10",
@@ -97,26 +97,26 @@
     "image": "world-map-puzzle.jpg",
     "tag": "EXPLORE THE WORLD",
     "pieces": "1000 pieces",
-    "description": "A map-themed jigsaw for geography lovers, travelers, and curious minds."
+    "description": "A richly detailed world-map puzzle for geography lovers and curious explorers."
   },
   {
     "id": "pc11",
-    "name": "Santorini Sunset Puzzle",
-    "category": "Jigsaw Puzzles",
+    "name": "Puzzle Mat & Storage Roll",
+    "category": "Accessories",
     "price": 24.99,
-    "image": "santorini-sunset-puzzle.jpg",
+    "image": "puzzle-mat-storage-roll.jpg",
     "tag": "SCENIC ESCAPE",
-    "pieces": "1000 pieces",
-    "description": "A colorful Mediterranean-inspired scene for a calm and rewarding puzzle session."
+    "pieces": "Roll-up mat",
+    "description": "A roll-up puzzle mat concept that helps keep a work in progress together between sessions."
   },
   {
     "id": "pc12",
-    "name": "The Great Wave Art Puzzle",
-    "category": "Jigsaw Puzzles",
+    "name": "Lavender Puzzle Gift Set",
+    "category": "Gifts & Bundles",
     "price": 22.99,
-    "image": "great-wave-puzzle.jpg",
+    "image": "puzzle-gift-set.jpg",
     "tag": "ART & CULTURE",
-    "pieces": "1000 pieces",
-    "description": "An art-inspired wave design for collectors and fans of expressive visual puzzles."
+    "pieces": "Gift bundle",
+    "description": "A lavender gift-ready puzzle set concept for birthdays, celebrations, and thoughtful surprises."
   }
 ]
